@@ -109,7 +109,7 @@ A two-legged robot that finds a target by color and walks toward it on its own.
 
 ### 📫 Let's Connect
 
-* 💼 LinkedIn: [linkedin.com/in/daniel-vasquez-saavedra-a60a81243]
-* ✉️ Email: [dvasquezsa@gmail.com]
+* 💼 LinkedIn: linkedin.com/in/daniel-vasquez-saavedra-a60a81243
+* ✉️ Email: dvasquezsa@gmail.com
 
 <p align="center"><i>Always happy to talk about AI, automation and building things that can be measured.</i></p>
