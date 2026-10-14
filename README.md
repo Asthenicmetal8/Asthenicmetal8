@@ -40,6 +40,7 @@ An automated quality-audit pipeline for call-center recordings.
 
 ### 🛠️ Tech Stack & Tools
 
+
 **Languages & data**
 
 <p>
@@ -48,6 +49,15 @@ An automated quality-audit pipeline for call-center recordings.
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
+
+**Business tools & integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Five9-0B5CAB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 **AI & automation**
@@ -72,25 +82,29 @@ An automated quality-audit pipeline for call-center recordings.
 
 ---
 
-### 💡 What I Do
-
 | Area | Examples |
 |---|---|
 | **Automation** | Reports and workflows with Google Apps Script and Sheets; scheduled data pipelines |
-| **Data analytics** | SQL queries, advanced Google Sheets, cleaning and merging messy exports |
+| **Data analytics** | SQL, advanced Google Sheets, Looker Studio dashboards, cleaning and merging messy exports |
 | **Applied AI** | LLM auditors with structured outputs, speech-to-text, AI agents, free and open tools like Whisper |
+| **Integrations** | REST APIs, CRM data (Salesforce) and contact-center data (Five9) |
 | **AI engineering** | Evaluation against human labels, cost and latency tracking, prompt iteration |
-| **Dashboards** | Interactive Streamlit apps for non-technical teams |
+| **Electronics** | Embedded systems and robotics, my original passion (see below) |
 
 ---
+### 🤖 Electronics & Robotics
+My background is in industrial electronics, and I still love building things you can touch.
 
-### 📈 GitHub Stats
+**Biped Color-Tracking Robot**
+A two-legged robot that finds a target by color and walks toward it on its own.
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Asthenicmetal8&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asthenicmetal8&layout=compact&theme=radical&hide_border=true" />
-</p>
+* **Brain:** Raspberry Pi Zero 2 W, which handles both vision and control.
+* **Vision:** Raspberry Pi camera module, with color detection to tell targets apart.
+* **Motion:** servo motors that drive a bipedal gait.
+* **Behavior:** see the target → decide direction → adjust the walk → approach.
+* **Built with:** Python, Raspberry Pi, servo control.
 
+> 🔗 Repository: *coming soon*
 ---
 
 ### 📫 Let's Connect
